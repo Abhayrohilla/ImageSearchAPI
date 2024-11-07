@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+pillow
+torch
+google-images-search
